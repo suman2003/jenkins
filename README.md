@@ -1,2 +1,0 @@
-# jenkins
-Jenkins Pipeline
